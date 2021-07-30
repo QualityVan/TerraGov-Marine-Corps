@@ -338,6 +338,7 @@
 		/obj/item/weapon/gun/tl102,
 		/obj/item/ammo_magazine/tl102,
 		/obj/item/turret_top,
+		/obj/item/turret_tripod,
 		/obj/item/ammo_magazine/sentry,
 		/obj/item/ammo_magazine/minisentry,
 		/obj/item/marine_turret/mini,
